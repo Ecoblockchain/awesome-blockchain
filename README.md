@@ -46,6 +46,7 @@ and recording it in the blockchain
 * [Blockverify.io](http://blockverify.io) Blockchain Based Anti-Counterfeit Solution
 * [Blockai.com/openpublish](https://github.com/blockai/openpublish) A publishing protocol for registering media as a digital asset on the Bitcoin blockchain.
 * [Blockcypher/Assets API](http://dev.blockcypher.com/#asset-api) Assets API using OpenAssets protocol
+* [Waves Platform](https://wavesplatform.com/) Decentralized platform for crowdfunding and release of digital tokens
  
 # Online identity
 * [Passcard](https://passcard.info)
